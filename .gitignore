@@ -6,7 +6,7 @@ node_modules
 /cypress/screenshots
 
 # production
-/web/out
+# /web/out
 /api/dist
 
 # misc
