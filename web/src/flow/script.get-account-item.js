@@ -35,7 +35,7 @@ export async function fetchAccountItem(key) {
   const {address, id} = expandAccountItemKey(key)
 
   // t.UInt64 fcl arg must be passed as string
-  let stringID = id.toString();
+  let stringID = id.toString()
 
   if (!address) return Promise.resolve(null)
   if (!stringID) return Promise.resolve(null)
