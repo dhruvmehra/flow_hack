@@ -7,9 +7,7 @@ import TransactionLoading from "./TransactionLoading"
 export default function Minter() {
   const [{isLoading, transactionStatus}, mint] = useMintAndList()
   const multiple_mint = () => {
-    for (let i = 0; i < 10; i++) {
-      mint()
-    }
+    mint
   }
   return (
     <div className="grid grid-cols-1 lg:grid-cols-2">
