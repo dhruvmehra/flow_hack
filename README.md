@@ -3,4 +3,16 @@ In this app I am trying to show demo of how to customize marketplace feed based 
 
 ## 🎬 Live Demo
 
-Check out the live demo at:
+Check out the live [demo](https://flow-hack-irlq-9aptzumzw-dhruvmehra-s-team.vercel.app/)
+
+Snapshot of the app:
+
+<p align="center">
+  <img width="800" src="assets/pre-post.png" />
+</p>
+
+How is it working?
+
+<p align="center">
+  <img width="600" src="assets/diagram.png" />
+</p>
